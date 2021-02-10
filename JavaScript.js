@@ -7,3 +7,8 @@ var name = "Василий";
 var admin = name;
 alert(admin);
 
+ ДЗ 4-5 строки
+4. var a = 1000 + "108";
+	alert(a);
+	
+a = 1000108;
